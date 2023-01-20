@@ -74,11 +74,11 @@ int main()
 {
     stack<char> s;
 
+    s.push('H');
     s.push('A');
-    s.push('B');
-    s.push('C');
-    s.push('D');
+    s.push('M');
+    s.push('Z');
+    s.push('A');
     s.print();
-    
     s.getTop();
 }
