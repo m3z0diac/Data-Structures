@@ -48,7 +48,7 @@ int main()
     if(areBalanced(expression))
         cout << "Expression is Balanced\n";
     else
-        cout << "Expression not Balanced\n";
+        cout << "Expression is not Balanced\n";
 
     // Ex:
     // (9+2)*{[12*(12+2)][24*(24+2)]} or (9+2) => are Balances
