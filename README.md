@@ -1,2 +1,2 @@
 # Data-Structures
-This Repository made for improve my skills at coding data structers &amp; algorithmes
+This Repository made for improve my skills at data structers &amp; algorithmes
